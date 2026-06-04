@@ -1,7 +1,7 @@
 {
-  "name": "malonda-backend",
+  "name": "malonda-app-backend",
   "version": "1.0.0",
-  "description": "Malonda Marketplace Backend API",
+  "description": "Malonda App - Marketplace Backend API",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
